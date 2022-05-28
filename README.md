@@ -12,9 +12,9 @@
 
 * **double Major** : AI의료융합 전공
 
-* **Github address** : [HyeongwookCho][github]
-[github]:http://github.com/HyeongwookCho
+* **Github address** : [HyeonwookCho][github]
 
+[github]:http://github.com/HyeongwookCho
 
 ---
 
